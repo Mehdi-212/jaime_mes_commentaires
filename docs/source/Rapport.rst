@@ -1,0 +1,24 @@
+Rapport final
+=============
+
+Un rapport explique les choix effectué pour l'automatisation du fichier et le découpage des tâches nécessaires au sein du binôme.
+
+.. |Power Point sur Git 2| raw:: html
+
+   <a href="https://docs.google.com/presentation/d/1vPpQUyPBQ5Ly5ybA51n0rNHZipJ-TMD1/edit#slide=id.p4" target="_blank">Power Point sur Git</a>
+
+.. |utilsation| raw:: html
+
+   <a href="https://docs.google.com/document/d/19fQI9bSIpmnOwAS5PUPJnOiQ6OT5N2ERfLCqdEkNqsA/edit" target="_blank">Procédure d'utilisation</a>
+
+.. |rapport| raw:: html
+
+   <a href="https://docs.google.com/document/d/1iqWGsewvG7TrY2k34x695k1aFLXbJvDRVlu91bc31hw/edit#heading=h.i5w5ymi3yyfj" target="_blank">Rapport de développement</a>
+
+----
+
+- |Power Point sur Git 2|
+- |utilsation|
+- |rapport|
+
+----

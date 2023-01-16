@@ -1,0 +1,11 @@
+pas de push possible si je nai pas recuperer par un pull
+
+conflit quand jai push
+
+creation de 2 branche
+
+pour regler le head detached
+
+cheackout et jai mis l'identifant de la main
+
+donc reinitialisation des 2 branche pour sur la main

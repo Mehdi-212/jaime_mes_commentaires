@@ -1,0 +1,10 @@
+\begin{sphinxtheindex}
+\let\bigletter\sphinxstyleindexlettergroup
+\let\spxpagem \sphinxstyleindexpagemain
+\let\spxentry \sphinxstyleindexentry
+\let\spxextra \sphinxstyleindexextra
+
+  \bigletter E
+  \item \spxentry{envoyer()}\spxextra{dans le module form\_add}, \hyperpage{4}
+
+\end{sphinxtheindex}
